@@ -1,0 +1,9 @@
+name = "SetCover"
+uuid = "d96ad724-0608-4938-9ae2-ad44de29543f"
+authors = ["Yu-Chang Yang <yang.yc.allium@gmail.com>"]
+version = "0.2.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
